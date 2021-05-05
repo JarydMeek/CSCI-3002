@@ -2,6 +2,6 @@
 This contains all work completed for CSCI 3002 at the University of Colorado at Boulder (Spring 2021)
 
 # Course Description -
-Introduces the practice and research of human-computer interaction, including its history, theories, the techniques of user-centered design, and the development of interactive technologies. Covers computing in society at large with respect to domains such as health, education, assistive technology, ethics, environment, and more.
+Covers the fundamentals of algorithms and various algorithmic strategies, including time and space complexity, sorting algorithms, recurrence relations, divide and conquer algorithms, greedy algorithms, dynamic programming, linear programming, graph algorithms, problems in P and NP, and approximation algorithms.
 
 Final Grade - Percentage TBD(A)
